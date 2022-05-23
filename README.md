@@ -3,6 +3,7 @@
 - 🌎 Aiming to build for the world<br>
 
 📫 My contacts: <br>
+<br>Email: me@mitsue.xyz
 <br>Twitter: @MitsueEth
 <br>Discord: Mitsue.eth#3116
-<br>Email: me@mitsue.xyz
+<br>ENS: Mitsue.eth
