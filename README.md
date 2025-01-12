@@ -1,6 +1,5 @@
 - 👋 Hi, I am Mitsue<br>
-- 🏃‍♂️ Transitioning from Web2 to Web3 development<br>
-- 🌎 Aiming to build for the world<br>
+- 🏃‍♂️ Fullstack Web Developer<br>
 
 📫 My contacts: <br>
 <br>Email: me@mitsue.xyz
